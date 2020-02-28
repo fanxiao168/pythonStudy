@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcca8812-5ea7-4ceb-bfe4-0a7c597825ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day02/demo06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-PythonBase/day02/demo07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-PythonBase/day02/exercise01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-PythonBase/day02/exercise02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-PythonBase/day02/exercise03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-PythonBase/day02/exercise04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-PythonBase/day02/exercise05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-PythonBase/day02/exercise06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-PythonBase/day02/exercise07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/exercise01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/exercise02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/demo01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/demo02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/demo03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/demo04.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/demo05.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,71 +31,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.demo06">
-    <configuration name="demo03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AIDStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day02/demo03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AIDStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day02/demo04.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AIDStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day02/demo05.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exercise07">
+    <configuration name="exercise03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AIDStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +44,91 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-PythonBase/day02/demo06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-PythonBase/day02/exercise03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AIDStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-PythonBase/day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-PythonBase/day02/exercise04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AIDStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-PythonBase/day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-PythonBase/day02/exercise05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AIDStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-PythonBase/day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-PythonBase/day02/exercise06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AIDStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-PythonBase/day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-PythonBase/day02/exercise07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,10 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.demo06" />
-        <item itemvalue="Python.demo05" />
-        <item itemvalue="Python.demo04" />
-        <item itemvalue="Python.demo03" />
+        <item itemvalue="Python.exercise07" />
+        <item itemvalue="Python.exercise06" />
+        <item itemvalue="Python.exercise05" />
+        <item itemvalue="Python.exercise04" />
+        <item itemvalue="Python.exercise03" />
       </list>
     </recent_temporary>
   </component>
@@ -139,25 +161,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1239" height="120" key="GridCell.Tab.0.bottom" timestamp="1582876293977">
+    <state x="220" y="23" key="CommitChangelistDialog2" timestamp="1582879838662">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state width="1239" height="120" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1582876293977" />
-    <state width="1239" height="120" key="GridCell.Tab.0.center" timestamp="1582876293977">
+    <state x="220" y="23" key="CommitChangelistDialog2/0.23.1280.732@0.23.1280.732" timestamp="1582879838662" />
+    <state width="1239" height="144" key="GridCell.Tab.0.bottom" timestamp="1582883245740">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state width="1239" height="120" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1582876293977" />
-    <state width="1239" height="120" key="GridCell.Tab.0.left" timestamp="1582876293976">
+    <state width="1239" height="144" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1582883245740" />
+    <state width="1239" height="144" key="GridCell.Tab.0.center" timestamp="1582883245738">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state width="1239" height="120" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1582876293976" />
-    <state width="1239" height="120" key="GridCell.Tab.0.right" timestamp="1582876293977">
+    <state width="1239" height="144" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1582883245738" />
+    <state width="1239" height="144" key="GridCell.Tab.0.left" timestamp="1582883245738">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state width="1239" height="120" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1582876293977" />
+    <state width="1239" height="144" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1582883245738" />
+    <state width="1239" height="144" key="GridCell.Tab.0.right" timestamp="1582883245739">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1239" height="144" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1582883245739" />
     <state x="319" y="221" key="com.intellij.ide.util.TipDialog" timestamp="1582874658639">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
     <state x="319" y="221" key="com.intellij.ide.util.TipDialog/0.23.1280.732@0.23.1280.732" timestamp="1582874658639" />
+    <state x="901" y="79" key="search.everywhere.popup" timestamp="1582880141888">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="901" y="79" key="search.everywhere.popup/0.23.1280.732@0.23.1280.732" timestamp="1582880141888" />
   </component>
 </project>
