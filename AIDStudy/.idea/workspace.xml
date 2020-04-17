@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcca8812-5ea7-4ceb-bfe4-0a7c597825ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/demo01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/demo02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/demo03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/demo04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/demo05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/demo06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/exercise.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/exercise01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/exercise02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/exercise03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/exercise04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/exercise05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/exercise06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/exercise07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/exercise08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/exercise09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/exercise10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-PythonBase/day17/review.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-PythonBase/day18/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-PythonBase/day18/common/list_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-PythonBase/day18/day17_exercise/exercise01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-PythonBase/day18/demo01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-PythonBase/day18/demo02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +35,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.review">
-    <configuration name="exercise07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.list_helper">
+    <configuration name="demo01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AIDStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +44,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-PythonBase/day17" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-PythonBase/day18" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-PythonBase/day17/exercise07.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-PythonBase/day18/demo01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AIDStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,32 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-PythonBase/day17" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-PythonBase/day18/day17_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-PythonBase/day17/exercise08.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exercise09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AIDStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-PythonBase/day17" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-PythonBase/day17/exercise09.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-PythonBase/day18/day17_exercise/exercise01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,6 +91,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-PythonBase/day17/exercise10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="list_helper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AIDStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-PythonBase/day18/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-PythonBase/day18/common/list_helper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.list_helper" />
+        <item itemvalue="Python.demo01" />
+        <item itemvalue="Python.exercise01" />
         <item itemvalue="Python.review" />
         <item itemvalue="Python.exercise10" />
-        <item itemvalue="Python.exercise09" />
-        <item itemvalue="Python.exercise08" />
-        <item itemvalue="Python.exercise07" />
       </list>
     </recent_temporary>
   </component>
@@ -186,38 +173,38 @@
       <screen x="0" y="23" width="1280" height="732" />
     </state>
     <state width="788" height="466" key="DebuggerActiveHint/0.23.1280.732@0.23.1280.732" timestamp="1586933430820" />
-    <state width="1239" height="231" key="GridCell.Tab.0.bottom" timestamp="1586933972774">
+    <state width="1239" height="211" key="GridCell.Tab.0.bottom" timestamp="1586941719065">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state width="1239" height="231" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1586933972774" />
-    <state width="1239" height="231" key="GridCell.Tab.0.center" timestamp="1586933972773">
+    <state width="1239" height="211" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1586941719065" />
+    <state width="1239" height="211" key="GridCell.Tab.0.center" timestamp="1586941719064">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state width="1239" height="231" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1586933972773" />
-    <state width="1239" height="231" key="GridCell.Tab.0.left" timestamp="1586933972773">
+    <state width="1239" height="211" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1586941719064" />
+    <state width="1239" height="211" key="GridCell.Tab.0.left" timestamp="1586941719064">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state width="1239" height="231" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1586933972773" />
-    <state width="1239" height="231" key="GridCell.Tab.0.right" timestamp="1586933972774">
+    <state width="1239" height="211" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1586941719064" />
+    <state width="1239" height="211" key="GridCell.Tab.0.right" timestamp="1586941719065">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state width="1239" height="231" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1586933972774" />
-    <state width="1239" height="211" key="GridCell.Tab.1.bottom" timestamp="1586933474709">
+    <state width="1239" height="211" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1586941719065" />
+    <state width="1239" height="211" key="GridCell.Tab.1.bottom" timestamp="1586941719066">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state width="1239" height="211" key="GridCell.Tab.1.bottom/0.23.1280.732@0.23.1280.732" timestamp="1586933474709" />
-    <state width="1239" height="211" key="GridCell.Tab.1.center" timestamp="1586933474708">
+    <state width="1239" height="211" key="GridCell.Tab.1.bottom/0.23.1280.732@0.23.1280.732" timestamp="1586941719066" />
+    <state width="1239" height="211" key="GridCell.Tab.1.center" timestamp="1586941719066">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state width="1239" height="211" key="GridCell.Tab.1.center/0.23.1280.732@0.23.1280.732" timestamp="1586933474708" />
-    <state width="1239" height="211" key="GridCell.Tab.1.left" timestamp="1586933474708">
+    <state width="1239" height="211" key="GridCell.Tab.1.center/0.23.1280.732@0.23.1280.732" timestamp="1586941719066" />
+    <state width="1239" height="211" key="GridCell.Tab.1.left" timestamp="1586941719065">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state width="1239" height="211" key="GridCell.Tab.1.left/0.23.1280.732@0.23.1280.732" timestamp="1586933474708" />
-    <state width="1239" height="211" key="GridCell.Tab.1.right" timestamp="1586933474708">
+    <state width="1239" height="211" key="GridCell.Tab.1.left/0.23.1280.732@0.23.1280.732" timestamp="1586941719065" />
+    <state width="1239" height="211" key="GridCell.Tab.1.right" timestamp="1586941719066">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state width="1239" height="211" key="GridCell.Tab.1.right/0.23.1280.732@0.23.1280.732" timestamp="1586933474708" />
+    <state width="1239" height="211" key="GridCell.Tab.1.right/0.23.1280.732@0.23.1280.732" timestamp="1586941719066" />
     <state x="319" y="221" key="com.intellij.ide.util.TipDialog" timestamp="1582874658639">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
