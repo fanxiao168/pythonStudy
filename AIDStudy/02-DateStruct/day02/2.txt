@@ -1,0 +1,41 @@
+扩展：双向循环链表，树形结构（二叉排序数，平衡二叉树，红黑树算法，B树和B+树，哈弗曼树), 图形结构，三列表
+
+前情回顾
+
+1. 数据结构 :  研究组成数据的数据元素之间的关系
+   逻辑结构 :  抽象化（通过数学模型进行总结归纳）
+
+               线性    树型    图形
+
+   存储结构 :  将逻辑模型整理存储到计算机中
+
+              顺序存储    链式存储
+
+2. 线性表的顺序存储（列表）
+   线性表的链式存储（重点）
+
+练习: 1. 三个数 1，2，3 入栈的时间顺序为1 2 3，出栈的顺序不可能是什么
+        3 1  2
+
+     2. 自己编写一个逆波兰表达式（dc）的程序
+
+     3. 将一个队列中的数据进行反转（队列中的元素数量不定）
+
+        头 3  4  1  6  5  8
+        头 8  5  6  1  4  3
+
+     4. 如何使用两个栈完成一个队列功能
+
+
+作业: 1. 把栈和队列的模型代码熟练
+
+     2. 把今天的练习自己写一下
+
+     3. 编写一个接口程序，去判断一段文字中括号的匹配是否正确，如果正确则告知，如果不正确则需要提示大概第多少个字
+     符出现了匹配不正确的情况。
+
+        Open source (software) [is] made better when {users} can easily (contribute] code
+        and documentation to fix bugs and add features. ([Python] strongly) encourages community
+        {involvement in (improving) the software}. Learn more about how to make Python better for
+        everyone.
+
