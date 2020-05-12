@@ -1,0 +1,36 @@
+前情回顾
+
+1. tcp细节
+
+    * 一端断开，另一端recv立即返回空
+    * 缓冲区为空recv阻塞 （缓冲区，协调收发速度）
+    * 粘包 （tcp才有）
+
+2. udp
+
+    服务端: socket -> bind -> recvfrom/sendto -> close
+    客户端: socket -> sendto/recvfrom -> close
+
+3. 套接字属性
+    fileno()
+    setsockopt()
+    getpeername()
+
+4. struct模块
+
+    功能: 将一组数据进行打包转换bytes
+          将字节数据解包
+
+    Struct()  生成格式对象
+    pack()    打包
+    unpack()  解包
+
+练习: 编写一个http服务端程序
+
+    如果浏览器的请求内容/
+    响应码为   200   OK, 将index.html内容作为相应内容
+
+    如果浏览器的请求是其他的
+    响应码为   404  Not  Found  内容为 "Sorry...."
+
+
